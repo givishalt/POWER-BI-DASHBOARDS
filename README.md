@@ -5,7 +5,6 @@
 ---
 
 ## 🖼️ Dashboard Preview
-<h2>🖥️ Dashboard Preview</h2>
 <img src="images/dashboard.png" width="800">
 
 ---
