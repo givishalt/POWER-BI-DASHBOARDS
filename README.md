@@ -5,8 +5,8 @@
 ---
 
 ## 🖼️ Dashboard Preview
-<img src="![Uploading Screenshot 2026-04-15 150551.png…]()" width="800">
-
+<h2>🖥️ Dashboard Preview</h2>
+<img src="images/dashboard.png" width="800">
 
 ---
 
