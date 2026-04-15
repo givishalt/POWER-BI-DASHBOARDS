@@ -5,8 +5,7 @@
 ---
 
 ## 🖼️ Dashboard Preview
-<img src="images/dashboard.png" width="800">
-
+![Dashboard](images/dashboard.png)
 ---
 
 ## 📌 Project Overview
